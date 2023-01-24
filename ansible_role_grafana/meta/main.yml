@@ -1,0 +1,14 @@
+galaxy_info:
+  role_name: ansible_role_grafana
+  namespace: acme
+  author: Nikita and Sanya
+  description: my desc
+  company: my comp
+
+  license: BSD
+
+  min_ansible_version: 2.14.0
+
+  galaxy_tags: []
+
+dependencies: []
